@@ -26,7 +26,7 @@ import (
 	"time"
 
 	"github.com/ceph/go-ceph/rados"
-	"github.com/digitalocean/ceph_exporter/collectors"
+	"github.com/phpor/ceph_exporter/collectors"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )

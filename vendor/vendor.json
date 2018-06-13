@@ -81,5 +81,5 @@
 			"revisionTime": "2017-04-07T17:21:22Z"
 		}
 	],
-	"rootPath": "github.com/digitalocean/ceph_exporter"
+	"rootPath": "github.com/phpor/ceph_exporter"
 }
